@@ -51,10 +51,14 @@ Make sure the following Python packages are installed:
 
 ```bash
 pip install pandas numpy matplotlib
-
+```
 
 ## 🧑‍💻 Author
 
 Swarup Jaiddep Patankar
+
+
 Second Year –  B.Tech (CSE-Data Science)
+
+
 Programming Language Mini Project (Python)
