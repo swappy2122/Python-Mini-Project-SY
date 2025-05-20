@@ -25,7 +25,7 @@ sales-analysis-project/
 ├── sales_analysis.py # Main Python script for data processing and visualization
 └── README.md # Project documentation (this file)
 
-
+```
 ---
 
 ## 📈 Features
